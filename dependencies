@@ -1,0 +1,19 @@
+    apiKey: "AIzaSyDvWYo7BnAQob0Cr8xe51-XE1q15Di_CwQ",
+    authDomain: "fir-auth-development-dd90c.firebaseapp.com",
+    projectId: "fir-auth-development-dd90c",
+    storageBucket: "fir-auth-development-dd90c.appspot.com",
+    messagingSenderId: "486721296987",
+    appId: "1:486721296987:web:b0621e22076f9cbc7bfd7e"
+
+npm install firebase;
+npm install bootstrap;
+npm install react-bootstrap;
+npm install react-router-dom;
+npm install -g firebase-tools;
+npm run build;
+firebase login;
+firebase init;
+or firebase init hosting;
+firebase use fir-auth-development-dd90c;
+firebase deploy;
+hosting url: https://fir-auth-development-dd90c.web.app/login
