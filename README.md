@@ -1,1 +1,1 @@
-Hosting my first React webapp in firebase.
+My first hosting in firebase.
